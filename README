@@ -1,0 +1,7 @@
+Afin d'accéder a la base de données, ajoutez un fichier params.php dans lequel il faut ajouter les
+informations suivantes en complétant les valeurs entre ' '
+
+$servername = " ";
+$dbname = " ";
+$dbuser = " ";
+$dbpassword = " ";
